@@ -1,0 +1,7 @@
+C:\Users\samiy\source\repos\girisSayfa\obj\Debug\girisSayfa.Properties.Resources.resources
+C:\Users\samiy\source\repos\girisSayfa\obj\Debug\girisSayfa.csproj.GenerateResource.cache
+C:\Users\samiy\source\repos\girisSayfa\obj\Debug\girisSayfa.csproj.CoreCompileInputs.cache
+C:\Users\samiy\Desktop\girisSayfa\obj\Debug\girisSayfa.csproj.AssemblyReference.cache
+C:\Users\samiy\Desktop\girisSayfa\obj\Debug\girisSayfa.Properties.Resources.resources
+C:\Users\samiy\Desktop\girisSayfa\obj\Debug\girisSayfa.csproj.GenerateResource.cache
+C:\Users\samiy\Desktop\girisSayfa\obj\Debug\girisSayfa.csproj.CoreCompileInputs.cache

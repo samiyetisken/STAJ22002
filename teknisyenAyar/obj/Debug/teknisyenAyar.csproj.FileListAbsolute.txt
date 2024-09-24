@@ -1,0 +1,3 @@
+C:\Users\samiy\source\repos\teknisyenAyar\obj\Debug\teknisyenAyar.Properties.Resources.resources
+C:\Users\samiy\source\repos\teknisyenAyar\obj\Debug\teknisyenAyar.csproj.GenerateResource.cache
+C:\Users\samiy\source\repos\teknisyenAyar\obj\Debug\teknisyenAyar.csproj.CoreCompileInputs.cache
